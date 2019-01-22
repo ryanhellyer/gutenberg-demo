@@ -1,0 +1,17 @@
+.info-block {
+	border: 2px solid #ddd;
+	border-radius: 100px;
+	background: #eee;
+	padding: 50px;
+	overflow: auto;
+}
+
+.info-image {
+	float: right;
+	width: 50%;
+}
+
+.info-image .components-button {
+	position: relative;
+	z-index: 9999;
+}
